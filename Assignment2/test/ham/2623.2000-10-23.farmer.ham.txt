@@ -7,7 +7,7 @@ pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
 fred boas @ ect
 10 / 23 / 2000 01 : 21 pm
 to : mary poorman / na / enron @ enron
-cc : nick moshou / corp / enron @ enron , cynthia hakemack / hou / ect @ ect , kristen j
+cc : nick moshou / corp / enron @ enron   cynthia hakemack / hou / ect @ ect   kristen j
 hanson / hou / ect @ ect
 subject : re : meter 0980438 - acock production ? ? ? ? ? ?
 mary :
@@ -17,7 +17,7 @@ fred
 nick moshou @ enron
 10 / 23 / 2000 01 : 05 pm
 to : fred boas / hou / ect @ ect
-cc : cynthia hakemack / hou / ect @ ect , kristen j hanson / hou / ect @ ect
+cc : cynthia hakemack / hou / ect @ ect   kristen j hanson / hou / ect @ ect
 subject : re : meter 0980438 - acock production ? ? ? ? ? ?
 any progress on this issue ?
 - - - - - - - - - - - - - - - - - - - - - - forwarded by nick moshou / corp / enron on 10 / 23 / 2000
@@ -27,11 +27,11 @@ nick moshou
 to : fred boas / hou / ect @ ect
 cc : cynthia hakemack / hou / ect @ ect
 subject : re : meter 0980438 - acock production ? ? ? ? ? ?
-fred ,
+fred  
 could you give me the status or an eta on this meter . we are in the middle
-of a big push to lower our exposure and the following customer has $ 55 , 000
+of a big push to lower our exposure and the following customer has $ 55   000
 not including sept production because we ' ve paid manually without having the
 volumes in unify for this meter .
-thanks ,
+thanks  
 nick
 x 36454

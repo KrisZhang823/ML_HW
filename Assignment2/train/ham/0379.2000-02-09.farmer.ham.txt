@@ -1,6 +1,6 @@
 Subject: sitara updates
 this is a note to update you guys on the progress i ' m making concerning
-cleaning - up and combining well - head deals . . . so far , i have completed :
+cleaning - up and combining well - head deals . . . so far   i have completed :
 eog :
 deal 126358 reflects 0 volumes on meter 6067 march 2000 forward
 deal 126281 reflects volumes on meter 6296 as well as volumes moved from

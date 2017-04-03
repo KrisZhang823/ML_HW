@@ -12,6 +12,6 @@ duke 47 . 850 ( 50 . 000 - 2 . 150 inflexible )
 mitchell 20 . 000
 crosstex ( 6 . 200 ) ( baseload sale )
 total 61 . 650 flexible
-thanks ,
+thanks  
 mark
 x 33396

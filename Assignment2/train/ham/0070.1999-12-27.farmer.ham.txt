@@ -16,15 +16,15 @@ contracts through 10 / 31 / 97 and then started to be allocated to the 089
 contract later ? are the transport contracts no longer valid to allocate to
 and is that the reason the 089 contract was used ? or should the transport
 contract be allocated to instead of the 089 contract for 11 / 97 forward ? each
-item indicates a delivered volume , so either a transport or sale is taking
+item indicates a delivered volume   so either a transport or sale is taking
 place .
 all the information that is supplied on the ua 4 report is need a contract for
-9 , 448 mmbtu .
+9   448 mmbtu .
 since the meter was assigned to someone else during this timeframe before it
-was assigned to me , it ' s difficult to know why the 089 contract was ever used
+was assigned to me   it ' s difficult to know why the 089 contract was ever used
 for allocation and since there are no other records such as deal tickets in
 cpr or oss .
-need help , stella
+need help   stella
 daren j farmer
 12 / 22 / 99 07 : 14 am
 to : stella l morris / hou / ect @ ect
@@ -34,9 +34,9 @@ what occurred at this point in prior months ? who was allocated the volume ?
 d
 from : stella l morris 12 / 16 / 99 06 : 04 pm
 to : daren j farmer / hou / ect @ ect
-cc : mary m smith / hou / ect @ ect , howard b camp / hou / ect @ ect
+cc : mary m smith / hou / ect @ ect   howard b camp / hou / ect @ ect
 subject : ua 4 - meter 1441 for 11 / 97 - falfurrias
 daren - i need your help in resolving this issue . there wasn ' t any deal in
-oss for the above reference meter , nor could i find anything in cpr . the
+oss for the above reference meter   nor could i find anything in cpr . the
 contract shows 089 - 41500 - 102 representing a sale in the amount of 9448 .
-thanks , stella
+thanks   stella

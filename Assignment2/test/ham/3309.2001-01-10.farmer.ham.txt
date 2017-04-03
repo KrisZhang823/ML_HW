@@ -25,7 +25,7 @@ password
 password call 31411 . )
 ( 4 ) creating an expense report ( if you decide you would like to prepare your
 own expense report )
-select my workspace tab , then create expense report . fill
+select my workspace tab   then create expense report . fill
 in required fields .
 select next button
 ( 5 ) approving a report

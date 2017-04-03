@@ -10,7 +10,7 @@ subject : request submitted : access request ( ygcy - 4 n 9 kdl )
 thank you for your request .
 you will be notified via email when your request has been processed . you can
 check the progress of your request by doing one of the following :
-in the srrs application , click on requests i have made . a listing of recent
+in the srrs application   click on requests i have made . a listing of recent
 requests will be appear sorted by resource name .
 click on the request link below . this is a link to information regarding your
 request .
@@ -26,4 +26,4 @@ lotus notes - new id access only 4 . 5 a
 sitara - production us
 unify - market ops .
 unify - pipeline operations
-if you have any questions , please contact information risk management at 35536
+if you have any questions   please contact information risk management at 35536

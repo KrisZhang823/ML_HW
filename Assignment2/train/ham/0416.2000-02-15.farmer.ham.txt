@@ -1,5 +1,5 @@
 Subject: logistics enom team
-hal , as per our discussion here are the logistics people that will be
+hal   as per our discussion here are the logistics people that will be
 dedicated to the enom development :
 key subject experts :
 the logistics managers for each of the various regions will be the key
@@ -21,4 +21,4 @@ randy gay
 george smith
 as discussed we might have to bring in others when the product starts to take
 shape and is impacting other areas ( global for example )
-i look forward to our next meeting , thanks - bob x 30957
+i look forward to our next meeting   thanks - bob x 30957

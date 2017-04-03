@@ -5,7 +5,7 @@ deliveries :
 0 mmbtu into eastrans
 redeliveries :
 0 mmbtu
-for 4 / 6 / 00 , the nomination is as follows :
+for 4 / 6 / 00   the nomination is as follows :
 deliveries :
 0 mmbtu into eastrans
 redeliveries :
